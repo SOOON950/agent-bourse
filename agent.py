@@ -214,8 +214,8 @@ def get_data(ticker):
         return None
     closes, volumes, meta = res
 
-    price = meta.get("regularMarketPrice") or closes[-1]
-    prev = meta.get("chartPreviousClose") or (closes[-2] if len(closes) > 1 else price)
+price = meta.get("regularMarketPrice") or closes[-1]
+prev = closes[-2] if len(closes) > 1 else closes[-1]
     volume = meta.get("regularMarketVolume") or (volumes[-1] if volumes else None)
 
     mois = volumes[-21:] if len(volumes) >= 21 else volumes
@@ -225,7 +225,9 @@ def get_data(ticker):
     if not prev:
         return None
     change_pct = (price - prev) / prev * 100
-
+    if abs(change_pct) > 50:
+        print(f"  [!] Variation suspecte ignoree ({change_pct:+.1f}%) - donnee Yahoo incorrecte")
+        change_pct = 0
     m = macd(closes)
     window = closes[-config.FENETRE_SR:] if len(closes) >= config.FENETRE_SR else closes
     return {
