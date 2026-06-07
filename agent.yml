@@ -1,0 +1,45 @@
+name: Agent boursier
+
+on:
+  schedule:
+    # Toutes les 5 minutes (intervalle gratuit le plus fiable sur GitHub).
+    - cron: "*/5 * * * *"
+  workflow_dispatch:        # permet aussi de lancer a la main depuis l'onglet Actions
+
+permissions:
+  contents: write           # autorise le robot a sauvegarder l'etat (state.json)
+
+concurrency:
+  group: agent-bourse
+  cancel-in-progress: false
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Recuperer le code
+        uses: actions/checkout@v4
+
+      - name: Installer Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Installer les dependances
+        run: pip install -r requirements.txt
+
+      - name: Lancer l'agent
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GMAIL_ADDRESS: ${{ secrets.GMAIL_ADDRESS }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+          RECIPIENT_EMAIL: ${{ secrets.RECIPIENT_EMAIL }}
+        run: python agent.py
+
+      - name: Sauvegarder l'etat
+        run: |
+          git config user.name "bourse-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add state.json
+          git diff --quiet --cached || git commit -m "maj etat [skip ci]"
+          git push
