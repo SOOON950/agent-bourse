@@ -1,5 +1,6 @@
 {
   "digest_last_sent": "2026-06-07",
+  "signaux_last_sent": {},
   "seen_news": {
     "ALKAL.PA": [
       "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vR2FLMUNDZllsV0V2NHZEVlFGc0lQNnBjTlF2bFdWdFZBcGNDVWoyS3dMRkVBbHFQSDBOUEtVbXQtQVNreS0yY1ZERXFKc0VXWHoxbFJB?oc=5",
@@ -48,14 +49,16 @@
       "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYXdjbTB1bTdVVzE5SndiOXRiN0J6OU5UWlZDZnMxb3NER2JaNkdtNEQ2QnN2aWRjdmxNUkI3NFVKMmFUY1RSWEo4ai1Yb2xxZzlNTlBWRTVtdDZNQXJwZGlILUdkS00xX3FVZVJVLU9QSFpUMnh2czNwc1NmLS1pOXJBeVVpMnY2Q1pDbDdFbFU4UGFMQURfTE5walVrYk9jUXJxQUw1bi1IMWFJUERreWNTX2ZUZ2VCSDFRc1JOTWpTaXZzWGZ5alV1aHY?oc=5",
       "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWFVzUzlqbDNHWDFZNlpzck9Nbm1xTTE2azFCR0U4TEpOcmZtRVhmZDFzSVdxZVZyRW1abXlRalB5Mk1OYzhFNWdvUUVJV2hpZWJjNHNicjlaVERFdEVsc3Fld3REMmxjY2otYkIxYllUTGFsc2ptLXdIc2R3aEFVQlptcDFFb3NtRmpBcFlYckEtQko5bHpvdFB4WGpoWnVwNVdEZWlrVXRYUnVmeWstTU85b2QxczJHZnd2YjE5enNySDJJ0gHKAUFVX3lxTFBlYU9lVjBCUS1zSU5URG1BNmhnSGRoNGdrVkpXbTZIbmhHdVBLRlZyLVRldGNzWWZhY1FpLXNrVngyYUprRU5BcXZPMWo1amNVQjZSSXA1eVFVX3JhRFNhTnNCc2tIc3MxRWt3YUg5akRVV0JWeXE3blpDVGhnaUJFeTBteG4xbS01cVlrUGZyVnV0Ui1FOVFYVkdTa2ZiTWtEWm5zVWpqMkFac2NSenNmcF9DaDRBeUR3YzJsTGh2ZWpQdTMxeDQ3U3c?oc=5",
       "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCRUVtbmg5T0w2ZU5YQUFqejZ6LXRMaVZHeVJ0VG5oMUNCYXJzX01sRTBsaUtocUtNYmNTblVzQVI0NDZabUZJQWJTd0tvZ0JUc0lzS0VUNkM0VFpIakZrVTNBTU5GZ2VaMmhyRU4zQWF0WlptVUtiekZRN3rSAYIBQVVfeXFMUHh5N0dxUDJTY3VQZS1aRGZlWTdGLVU3eWtZY1NDc2J5RXBTcklZano1WndjNFlNYnl1dGMzNi1NYzhOOUlXQ1dVN2RPS0lkR2k5WHBqR3RhdVZ6TWd1ZHR1TmN4LVU4bUR6anl2V09MYlM1b2RNMHZ4eHdtd2lEQ3A0Zw?oc=5",
-      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDYteG9HQUtqMGJsNDVaQU9pSlJWcm1jUzBhR242RDdZbW0tQ3ZDVlhQdGtRNWdYam9qVGRDR1E4TEJINEZ3aEduSXptQ3NhOFRWdThKMEY2S0p4Z2U2RmpUdDRnVzRRblNidE9IaEZJZG1obWlUNUZmU0EzbFROb1NOMHVRa0xHTERkVnFVcVl0VDdKMUVOTXR5X2w5ckxnU21rTXF3TWJzYjVLRi1FNmNTZHNFbm9ROTk1VTJTUzZ0Zw?oc=5"
+      "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNSDYteG9HQUtqMGJsNDVaQU9pSlJWcm1jUzBhR242RDdZbW0tQ3ZDVlhQdGtRNWdYam9qVGRDR1E4TEJINEZ3aEduSXptQ3NhOFRWdThKMEY2S0p4Z2U2RmpUdDRnVzRRblNidE9IaEZJZG1obWlUNUZmU0EzbFROb1NOMHVRa0xHTERkVnFVcVl0VDdKMUVOTXR5X2w5ckxnU21rTXF3TWJzYjVLRi1FNmNTZHNFbm9ROTk1VTJTUzZ0Zw?oc=5",
+      "https://news.google.com/rss/articles/CBMivAFBVV95cUxOclAxbS1HV3RMNEJjckFmVThrUEVfb1hLNDdkWVN5dnV1U0I3STdyeHlYdFhFT0JReExGa0oyT1FzOGRWR3UxZHBidzBZQUZGUXlkRENuZjZBOEM4cmhONDhPZE5QSDNpQ0dyY0dCSnlNdHF6OFhnSUtfdGpRT1J2ZE51N3JlMVhkZG1KZlFzaHlPNldrR2VZVXdUOEhuZVJHdnJ4c2V5VGwtRlh4dnNmc1dZWm1WYVh5Q3JSXw?oc=5"
     ],
     "SIVE.ST": [
       "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPaXZIcmRiVkJlY1pQVGx0OXp3X3VqS21rTVB1ZnkxemUxbXlweTJHc0Z1LS1FQVFUeEhLRnJfWGpoNXhZNXdVd2FWVU5ySGI5aUJsbDBNMEp2UXF6dkltel9ZRlFQVlBGVUpsMU5fNExodnpYbVNyMDItLWlZZXJLbVZScEtsOEhYUWtXSkdhOGNoTHo1Y2RFeDRjeFl6RnZ1Zm9KbmxnS0xFcm9WUWxBWkY5UmxlTl9zbWJVcVZqQk51dnhTeDdqbGIxTGliQkRORnhJR29keWhuRmllX1BwRHE5bm9qdDZkaUx4S1VidmVfb0U?oc=5",
       "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcnJscDVWWGl1MHgyTGJhbnlHc2hjX1ZEM2U5bmN3ODNFdmtrRnVTZ1JpTUhBQU1vMTl6aXl2UWNpdG5rRU5acFZRSlhNVkN2cDYtREtCS2JMVER2bGMwcEJYNkdlVWdaQ0FLYzJrUmJ2bUY4UnRSVTRZZVdjN25zeDAyMGM0S3B1ZjNrazRob3lMclpMSkNwRm9sWXlfV1pBcjBGVXVJMTBuUXhlMGR5bkxsUmgwakxKbkJVd2RoRW11ck1RTmlz?oc=5",
       "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdmQ1NXFqYklfWEtXT0RWRmcxWjRKVzdiU1RCSHRtQVpCdW5HbWlmMDV3T1ZTRFNWc2lnSThTWld2eGk5X29SN1F0c1VPeEJHZnEtUGdfZ1lQWURJb2MtaTkwYjUtclMyYldWVHpEZFFYbXhNbTdiMFRkUlJKS0FOYnhSRXhFVkh4aGIyVWFJeU1idDd0dWFGaC1ONWVVTjBYa1EwWnlWRHpHQWVYWFdhZFRCTHVOclpBc0FiSVZOWQ?oc=5",
       "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOYWhiRWMwV0JOaGJsMWhTSUZsQzNJdkl1UFdrZzdyUzF1bzJ5c29WQ0FSaVlrS01ZeFRwdjZOTEQ2X3JtMUM0c0Q1dG5MV1pEYlQwQnhIY0hMLWN4ZkRGR091VWdWZ2xxekQyNnh3Z0Rsal9lcXd2ckgyYktjYWxpZXF3UWp1UlJiek9YTnFmbGdubkxmMUN5VUJQNlBxS0YyWF9kaWlJRExRNGhscjRSdm5LT2F1QVA4aDB2OGg3N2V2VGwwa3BpUkdQaXpCTGN3YXdYMlcxRmt2czNi?oc=5",
-      "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPejNwTmlaM1hxTXdVQjZCNGpwaXdnN0NZbmdPLW9HTVNaU2dtZVVKcXJoRUZaZVRqcVNqdk5WeElDZEVxSlZEckNjVWhNQWR0WmIwTWlHc2hjTjg3NFlhN0VoS3o2M1huVHo0TW1jTlRoMW1XelFYY1pBcUFoVmpjS0puQW15cnhWaHNTYjB0dU9CRFE2RGJGRVhHRExjM1dXcFl0ZUdMVnZIdTlrY0YybnhFc1hhbUQwbEtOMXZEa0VvcFUxMWppdU1URWRaQXRvTy15eUNQRVRHc1MzMnBIWDVFejFLSjY4QjdSRGU2YUJRTjQ?oc=5"
+      "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPejNwTmlaM1hxTXdVQjZCNGpwaXdnN0NZbmdPLW9HTVNaU2dtZVVKcXJoRUZaZVRqcVNqdk5WeElDZEVxSlZEckNjVWhNQWR0WmIwTWlHc2hjTjg3NFlhN0VoS3o2M1huVHo0TW1jTlRoMW1XelFYY1pBcUFoVmpjS0puQW15cnhWaHNTYjB0dU9CRFE2RGJGRVhHRExjM1dXcFl0ZUdMVnZIdTlrY0YybnhFc1hhbUQwbEtOMXZEa0VvcFUxMWppdU1URWRaQXRvTy15eUNQRVRHc1MzMnBIWDVFejFLSjY4QjdSRGU2YUJRTjQ?oc=5",
+      "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFVTdGV4QjVLT0N4dnZhQUVFeFBWWDA5MVd5STM5Z3FhSm1HUW1VcWdPUlBjR3VSU2xLWkVWWm1yZjg5VFZKS3VJemd2SXE5VnFPVkc3N2JiOXZKRHdsSGtkZEFyMG50Sl8tejBjWnFtY0RKZ1lNTVVSX0M3LWRyNzBxV090QVNxSmZSblNrNWd6TnBIeTlnbkVSUVRJMUpURFRUbU1Td2NrbDRnekc0OUtHOXBSNEpvWHdZ?oc=5"
     ],
     "LQQ.PA": [
       "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1EQXJ3RjhXQmpsdUlWQ2NySWF3MDBEakg2YzFBLWpkMHFsZ3M4akV0OGtoNERxQjNYZXlHNWNuek5hcGxPSmlGVFZnQm5yM2dzNGI2cG1WdF9qZ3FvOVBJVzNqLWs?oc=5",
@@ -67,24 +70,24 @@
   },
   "last_alert": {
     "ALKAL.PA": {
-      "time": "2026-06-07T15:41:57.037830+02:00",
+      "time": "2026-06-07T16:49:25.423549+02:00",
       "price": 11.9,
-      "reason": "variation de +39.18% (seuil 8%)"
+      "reason": "variation de +2215.18% (seuil 8%)"
     },
     "AL2SI.PA": {
-      "time": "2026-06-07T15:41:57.934050+02:00",
+      "time": "2026-06-07T16:49:26.794113+02:00",
       "price": 49.74,
-      "reason": "variation de +34.43% (seuil 8%)"
+      "reason": "variation de +699.68% (seuil 8%)"
     },
     "ALHAF.PA": {
-      "time": "2026-06-07T15:41:59.195974+02:00",
+      "time": "2026-06-07T16:49:30.139826+02:00",
       "price": 0.225,
-      "reason": "variation de +141.94% (seuil 6%)"
+      "reason": "variation de -38.52% (seuil 6%)"
     },
     "VU.PA": {
-      "time": "2026-06-07T15:42:00.579919+02:00",
+      "time": "2026-06-07T16:50:00.921551+02:00",
       "price": 140.8,
-      "reason": "variation de +14.01% (seuil 5%)"
+      "reason": "variation de -41.82% (seuil 5%)"
     },
     "ALSTI.PA": {
       "time": "2026-06-07T15:42:01.460404+02:00",
@@ -92,14 +95,123 @@
       "reason": "variation de +13.89% (seuil 6%)"
     },
     "SIVE.ST": {
-      "time": "2026-06-07T15:42:02.240948+02:00",
+      "time": "2026-06-07T16:50:02.050233+02:00",
       "price": 78.8,
-      "reason": "variation de +44.06% (seuil 6%)"
+      "reason": "variation de +1645.68% (seuil 6%)"
     },
     "LQQ.PA": {
-      "time": "2026-06-07T15:42:03.020102+02:00",
+      "time": "2026-06-07T16:50:15.461231+02:00",
       "price": 1980.0,
-      "reason": "variation de +12.87% (seuil 3%)"
+      "reason": "variation de +69.32% (seuil 3%)"
+    },
+    "ALRIB.PA": {
+      "time": "2026-06-07T16:49:28.504974+02:00",
+      "price": 13.7,
+      "reason": "variation de +389.29% (seuil 6%)"
+    },
+    "ALMDT.PA": {
+      "time": "2026-06-07T16:49:40.582620+02:00",
+      "price": 5.27,
+      "reason": "variation de +138.46% (seuil 6%)"
     }
-  }
+  },
+  "tech_state": {
+    "ALKAL.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": -1,
+      "hi": 14.539999961853027,
+      "lo": 7.400000095367432
+    },
+    "AL2SI.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": 1,
+      "hi": 58.45000076293945,
+      "lo": 35.18000030517578
+    },
+    "ALRIB.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": -1,
+      "hi": 16.559999465942383,
+      "lo": 11.960000038146973
+    },
+    "ALHAF.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": -1,
+      "hi": 0.3269999921321869,
+      "lo": 0.13199999928474426
+    },
+    "ALMDT.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": -1,
+      "hi": 5.849999904632568,
+      "lo": 4.804999828338623
+    },
+    "VU.PA": {
+      "ma_sign": -1,
+      "rsi_zone": "neutre",
+      "macd_sign": 1,
+      "hi": 147.0,
+      "lo": 120.30000305175781
+    },
+    "ALSTI.PA": {
+      "ma_sign": -1,
+      "rsi_zone": "neutre",
+      "macd_sign": 1,
+      "hi": 59.900001525878906,
+      "lo": 49.52000045776367
+    },
+    "SIVE.ST": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": 1,
+      "hi": 97.44999694824219,
+      "lo": 43.13999938964844
+    },
+    "LQQ.PA": {
+      "ma_sign": 1,
+      "rsi_zone": "neutre",
+      "macd_sign": -1,
+      "hi": 2098.5,
+      "lo": 1847.0
+    }
+  },
+  "pending_signaux": [
+    {
+      "name": "STIF",
+      "ticker": "ALSTI.PA",
+      "score": 2,
+      "change_pct": -0.7,
+      "rsi": 59.0,
+      "events": [
+        "1 actualite(s) nouvelle(s)"
+      ],
+      "news": [
+        {
+          "title": "STIF approuve un dividende de 0,68 euro et relance son programme de rachat d’actions - ABC Bourse",
+          "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOclAxbS1HV3RMNEJjckFmVThrUEVfb1hLNDdkWVN5dnV1U0I3STdyeHlYdFhFT0JReExGa0oyT1FzOGRWR3UxZHBidzBZQUZGUXlkRENuZjZBOEM4cmhONDhPZE5QSDNpQ0dyY0dCSnlNdHF6OFhnSUtfdGpRT1J2ZE51N3JlMVhkZG1KZlFzaHlPNldrR2VZVXdUOEhuZVJHdnJ4c2V5VGwtRlh4dnNmc1dZWm1WYVh5Q3JSXw?oc=5"
+        }
+      ]
+    },
+    {
+      "name": "Sivers Semiconductors",
+      "ticker": "SIVE.ST",
+      "score": 10,
+      "change_pct": 1645.68,
+      "rsi": 58.0,
+      "events": [
+        "1 actualite(s) nouvelle(s)"
+      ],
+      "news": [
+        {
+          "title": "Sivers Semiconductors s'envole après un article de blog - Di - Zonebourse",
+          "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFVTdGV4QjVLT0N4dnZhQUVFeFBWWDA5MVd5STM5Z3FhSm1HUW1VcWdPUlBjR3VSU2xLWkVWWm1yZjg5VFZKS3VJemd2SXE5VnFPVkc3N2JiOXZKRHdsSGtkZEFyMG50Sl8tejBjWnFtY0RKZ1lNTVVSX0M3LWRyNzBxV090QVNxSmZSblNrNWd6TnBIeTlnbkVSUVRJMUpURFRUbU1Td2NrbDRnekc0OUtHOXBSNEpvWHdZ?oc=5"
+        }
+      ]
+    }
+  ]
 }
